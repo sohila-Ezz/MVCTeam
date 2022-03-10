@@ -6,13 +6,8 @@ using System.Threading.Tasks;
 
 namespace TestGit
 {
-    internal class Program
+    internal class calcal
     {
-        static void Main(string[] args)
-        {
-            Master ;
-            Fatma;
-            hhhhhhh;
-        }
+        public int Num1 { get; set; }
     }
 }
