@@ -9,6 +9,8 @@ namespace TestGit
     internal class Program
     {
         static void Main(string[] args)
-        {      }
+        {
+            feature1;
+        }
     }
 }
