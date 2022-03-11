@@ -10,5 +10,7 @@ namespace TestGit
     {
         public int Num1 { get; set; }
         int conflictOrNot;
+        public string sohila { get; set; }
+
     }
 }
