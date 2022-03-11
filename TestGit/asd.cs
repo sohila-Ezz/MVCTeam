@@ -9,5 +9,6 @@ namespace TestGit
     internal class asd
     {
         public string Name { get; set; }
+        public int bbbbbbb { get; set; }
     }
 }
