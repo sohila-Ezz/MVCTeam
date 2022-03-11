@@ -9,5 +9,6 @@ namespace TestGit
     internal class calcal
     {
         public int Num1 { get; set; }
+        int conflictOrNot;
     }
 }
