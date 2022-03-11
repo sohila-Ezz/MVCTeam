@@ -14,9 +14,10 @@ namespace TestGit
             Fatma;
             hhhhhhh;
             Doaa;
+            Sohila;
             IReadOnlyCollectio feature1;
             int master;
-            class feature22;
+            class feature22;kkk
         }
     }
 }
