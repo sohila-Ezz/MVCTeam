@@ -14,6 +14,7 @@ namespace TestGit
             Fatma;
             hhhhhhh;
             Doaa;
+            int master;
         }
     }
 }
