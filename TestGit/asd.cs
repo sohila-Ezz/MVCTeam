@@ -9,6 +9,6 @@ namespace TestGit
     internal class asd
     {
         public string Name { get; set; }
-        public string De { get; set; }
+        public string Doaa { get; set; }
     }
 }
