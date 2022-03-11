@@ -16,7 +16,7 @@ namespace TestGit
             Doaa;
             IReadOnlyCollectio feature1;
             int master;
-            class feature22;
+            class feature22;kkk
         }
     }
 }
