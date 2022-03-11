@@ -10,5 +10,7 @@ namespace TestGit
     {
         public string Name { get; set; }
         public int bbbbbbb { get; set; }
+        public string Doaa { get; set; }
+        public string Doaa2222 { get; set; }
     }
 }
